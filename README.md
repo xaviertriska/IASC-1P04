@@ -4,7 +4,7 @@ Welcome to the website for my Twine game created for the IASC 1P04 at Brock Univ
 
 ## Playtest
 
-Playtest my game [here]().
+Playtest my game [here](playtest/playtest).
 
 GitHub Repository for IASC 1P04 at Brock University.
 
