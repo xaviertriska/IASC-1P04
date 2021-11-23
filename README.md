@@ -1,13 +1,16 @@
 # IASC-1P04 | Xavier Triska
 
-Welcome to the website for my Twine game created for the IASC 1P04 at Brock University.
+Nightfallen is a short escape room game. The player awakens in a bedroom without any recollection of how they got there or who they are. Players must solve puzzles to escape the house, by finding clues all around the house, while trying to remember everything you've forgotten. As you try to escape, the player may realize that they aren't alone in this building... 
+Nightfallen conveys the idea that acting on desire leads to consequences, and what you desire most isn't always the best thing for you.
+
+## Play Now
+
+Play Nightfallen [here]().
 
 ## Playtest
 
 Playtest my game [here](playtest/playtest).
 
-GitHub Repository for IASC 1P04 at Brock University.
-
 ## Prototype
 
-Play the prototype of my game "Nightfallen" [here](https://xaviertriska.github.io/IASC-1P04/prototype/NightfallenPrototype.html).
+Play the prototype of my game Nightfallen [here](https://xaviertriska.github.io/IASC-1P04/prototype/NightfallenPrototype.html).
