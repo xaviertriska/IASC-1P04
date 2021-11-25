@@ -1,24 +1,34 @@
-"Scary and Eerie"
-by Mark DiAngelo
-
-Licensed under
-Creative Commons
-Attribution (3.0)
-
+# Credits
 ---
 
-"Teleport Slurp"
-by GameAudio
-
-Licensed under
-Creative Commons 0
-
+## Audio
 ---
 
 "TV_Light_Static.aif"
 by Crcavol
+Licensed under Creative Commons 0
 
-Licensed under
-Creative Commons 0
+"Loopy Sad 2"
+by nomiqbomi
+Licensed under Creative Commons 0
 
+"Horror Ambient"
+by ShortRecord
+Licensed under Creative Commons 0
+
+"Steps"
+by Xavier Triska
+
+"Wash"
+by Xavier Triska
+
+"Crash"
+by Xavier Triska
+
+"Creak"
+by Xavier Triska
+
+## Artwork
 ---
+
+All artwork was done by Xavier Triska.
