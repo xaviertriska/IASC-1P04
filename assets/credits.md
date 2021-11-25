@@ -28,6 +28,12 @@ by Xavier Triska
 "Creak"
 by Xavier Triska
 
+"Yell"
+by Xavier Triska
+
+"Scared"
+by Xavier Triska
+
 ## Artwork
 ---
 
