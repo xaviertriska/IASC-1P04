@@ -7,7 +7,7 @@ P.S.: This game uses audio, and it's recommended that you use headphones at an a
 
 ## Play Now
 
-Play Nightfallen [here](https://xaviertriska.github.io/IASC-1P04/final_build/NightfallenFinal_build04.html).
+Play Nightfallen [here](https://xaviertriska.github.io/IASC-1P04/final_build/NightfallenFinal.html).
 
 ## Playtest
 
