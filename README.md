@@ -5,7 +5,7 @@ Nightfallen conveys the idea that acting on desire leads to consequences, and wh
 
 P.S.: This game uses audio, and it's recommended that you use headphones at an appropriate volume for best user experience.
 
-## Play Now
+## Play Nightfallen Now
 
 Play Nightfallen [here](https://xaviertriska.github.io/IASC-1P04/final_build/NightfallenFinal.html).
 
